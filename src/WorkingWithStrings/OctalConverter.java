@@ -34,7 +34,6 @@ package WorkingWithStrings;
  * •	Объект типа BigDecimal использовать нельзя.
  */
 
-
 public class OctalConverter {
     public static void main(String[] args) {
         int decimalNumber = 21;
